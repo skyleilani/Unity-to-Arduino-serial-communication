@@ -1,4 +1,4 @@
-# Use Arduino’s serial port to send signals to Unity
+# Use Arduino’s serial port to receive signals from Unity
 
 This repo contains code for allowing Unity to receive signals from Arduino via serial port.
 
